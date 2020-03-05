@@ -2,7 +2,7 @@
 <br>
 <ul>
     <li>HTML</li>
-    <li>FRAMEWORK Boostrap</li>
+    <li>Boostrap</li>
     <li>Jquery</li>
     <li>Laravel</li>
     <li>PHP</li>
